@@ -37,7 +37,7 @@ We welcome contributions to improve and expand the Pokémon bot. If you're inter
 - **Submit Code**: If you have coding skills, you can contribute by submitting pull requests with bug fixes or new features.
 - **Help with Documentation**: Improve our documentation to make it easier for others to understand and use the bot.
 
-To get started with contributing, please check out our [GitHub repository](#) and follow the contribution guidelines provided there.
+To get started with contributing, please check out our [GitHub repository](https://github.com/akeanti/Pokemon-Bot) and follow the contribution guidelines provided there.
 
 ## Contact Us
 
