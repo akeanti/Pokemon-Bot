@@ -52,7 +52,7 @@ To send us a message, please fill out the form below:
 - **Email**: Your email address
 - **Message**: Your message or inquiry
 
-[Contact Form](#) (https://akeanti.github.io/contact.html)
+[Contact Form](https://akeanti.github.io/contact.html)
 
 ---
 
